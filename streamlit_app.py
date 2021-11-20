@@ -28,8 +28,8 @@ you speak Python, R or any other programming language
 you enjoy to get your hands dirty
 2. Or get creative with Out of the Box Thinking. Impress us with a solution we have not even imagined before.''')
 
-image = Image.open('as.jpg')
-
+image = Image.open('Plan de travail 1.png')
+st.image(image, caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 
 
